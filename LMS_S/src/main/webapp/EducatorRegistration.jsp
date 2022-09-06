@@ -226,7 +226,7 @@
                             <br>
                             <span><b>so,click the below button and Start Your Journey......</b></span>
                         </p>
-                        <a href="contact.jsp" target="_blank" class="btnR">Register Yourself</a>
+                        <a href="contact.html" target="_blank" class="btnR">Register Yourself</a>
                     </div>
                 </div>
             </section>
